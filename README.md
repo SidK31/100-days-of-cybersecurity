@@ -31,7 +31,8 @@ This repo helps me:
 | Day 1 | Networking Basics, TCP/IP, Ports, DNS, DHCP, Practical Commands |
 | Day 2 | Linux basics & essential commands |
 | Day 3 | Basic Nmap scanning & enumeration introduction |
-| Day 4 | *Coming soon…* |
+| Day 4 | Web enumeration basics + Gobuster scanning |
+| Day 5 | *Coming soon…* |
 
 👉 All daily notes are available as separate markdown files (Day01.md, Day02.md, etc.)
 
