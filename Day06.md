@@ -1,6 +1,6 @@
 # 🚀 Day 6 – Parameters, Burp Manipulation & Intro to XSS
 
-**Date:** DD/MM/YYYY  
+**Date:** 09/12/2025  
 **Journey:** 100 Days of Cybersecurity  
 **Focus:** Understanding parameters, modifying requests in Burp, and learning beginner-level XSS concepts.
 
