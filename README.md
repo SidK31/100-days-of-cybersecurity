@@ -17,7 +17,7 @@ Cybersecurity is one of the fastest-growing fields in the world.
 I want to master it step-by-step, understand every concept deeply, and develop real practical skills.
 
 This repo helps me:  
-- Stay consistent 💯  
+- Stay consistent   
 - Track my daily progress  
 - Build discipline  
 - Create a public portfolio of my learning  
@@ -34,7 +34,8 @@ This repo helps me:
 | Day 4 | Web enumeration basics + Gobuster scanning |
 | Day 5 | Burp Suite basics + intercepting requests |
 | Day 6 | Parameters, Burp Manipulation & Intro to XSS |
-| Day 7 | *Coming soon…* |
+| Day 7 | Introduction to SQL Injection basics|
+| Day 8 | *Coming soon…* |
 
 👉 All daily notes are available as separate markdown files (Day01.md, Day02.md, etc.)
 
