@@ -1,4 +1,3 @@
-Day07.md (Ready to Paste)
 # 🚀 Day 7 – Introduction to SQL Injection (Beginner-Friendly)
 
 **Date:** 10/12/2025  
