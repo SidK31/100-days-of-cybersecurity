@@ -35,7 +35,8 @@ This repo helps me:
 | Day 5 | Burp Suite basics + intercepting requests |
 | Day 6 | Parameters, Burp Manipulation & Intro to XSS |
 | Day 7 | Introduction to SQL Injection basics|
-| Day 8 | *Coming soon…* |
+| Day 8 | Stored XSS, DOM XSS & reflection understanding |
+| Day 9 | *Coming soon…* |
 
 👉 All daily notes are available as separate markdown files (Day01.md, Day02.md, etc.)
 
