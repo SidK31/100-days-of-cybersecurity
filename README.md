@@ -36,7 +36,9 @@ This repo helps me:
 | Day 6 | Parameters, Burp Manipulation & Intro to XSS |
 | Day 7 | Introduction to SQL Injection basics|
 | Day 8 | Stored XSS, DOM XSS & reflection understanding |
-| Day 9 | *Coming soon…* |
+| Day 9 | Reconnaissance & Information Gathering" |
+| Day 10 | *Coming soon…* |
+
 
 👉 All daily notes are available as separate markdown files (Day01.md, Day02.md, etc.)
 
