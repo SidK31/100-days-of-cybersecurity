@@ -38,7 +38,8 @@ This repo helps me:
 | Day 8 | Stored XSS, DOM XSS & reflection understanding |
 | Day 9 | Reconnaissance & Information Gathering" |
 | Day 10 | Cookies, sessions & parameter testing" |
-| Day 11 | *Coming soon…* |
+| Day 11 | File upload vulnerabilities & validation analysis|
+| Day 12 | *Coming soon…* |
 
 👉 All daily notes are available as separate markdown files (Day01.md, Day02.md, etc.)
 
