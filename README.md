@@ -36,10 +36,11 @@ This repo helps me:
 | Day 6 | Parameters, Burp Manipulation & Intro to XSS |
 | Day 7 | Introduction to SQL Injection basics|
 | Day 8 | Stored XSS, DOM XSS & reflection understanding |
-| Day 9 | Reconnaissance & Information Gathering" |
-| Day 10 | Cookies, sessions & parameter testing" |
+| Day 9 | Reconnaissance & Information Gathering |
+| Day 10 | Cookies, sessions & parameter testing|
 | Day 11 | File upload vulnerabilities & validation analysis|
-| Day 12 | *Coming soon…* |
+| Day 12 |Path traversal & Local File Inclusion basics|
+| Day 13 | *Coming soon…* |
 
 👉 All daily notes are available as separate markdown files (Day01.md, Day02.md, etc.)
 
