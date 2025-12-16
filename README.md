@@ -40,7 +40,8 @@ This repo helps me:
 | Day 10 | Cookies, sessions & parameter testing|
 | Day 11 | File upload vulnerabilities & validation analysis|
 | Day 12 |Path traversal & Local File Inclusion basics|
-| Day 13 | *Coming soon…* |
+| Day 13 | Linux privilege escalation basics |
+| Day 14 | *Coming soon…* |
 
 👉 All daily notes are available as separate markdown files (Day01.md, Day02.md, etc.)
 
